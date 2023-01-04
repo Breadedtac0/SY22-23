@@ -1,0 +1,21 @@
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf.vbproj.AssemblyReference.cache
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf_MarkupCompile.cache
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf_MarkupCompile.lref
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\bin\Debug\net6.0-windows\A simple wpf.exe
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\bin\Debug\net6.0-windows\A simple wpf.deps.json
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\bin\Debug\net6.0-windows\A simple wpf.runtimeconfig.json
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\bin\Debug\net6.0-windows\A simple wpf.dll
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\bin\Debug\net6.0-windows\A simple wpf.pdb
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf.g.resources
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf.AssemblyInfoInputs.cache
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf.AssemblyInfo.vb
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf.vbproj.CoreCompileInputs.cache
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf.dll
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\refint\A simple wpf.dll
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf.pdb
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\A simple wpf.genruntimeconfig.cache
+C:\Users\ioofa363\Documents\Visual studios 2023\SY22-23\VB\A simple wpf\A simple wpf\obj\Debug\net6.0-windows\ref\A simple wpf.dll
